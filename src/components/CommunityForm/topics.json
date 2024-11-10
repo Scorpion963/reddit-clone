@@ -1,0 +1,125 @@
+{
+    "categories": [
+      {
+        "name": "Technology",
+        "topics": [
+          "Programming",
+          "Artificial Intelligence",
+          "Cybersecurity",
+          "Gadgets",
+          "Virtual Reality",
+          "Blockchain",
+          "Startups"
+        ]
+      },
+      {
+        "name": "Science",
+        "topics": [
+          "Physics",
+          "Biology",
+          "Astronomy",
+          "Chemistry",
+          "Earth Science",
+          "Neuroscience",
+          "Mathematics"
+        ]
+      },
+      {
+        "name": "Gaming",
+        "topics": [
+          "PC Gaming",
+          "Console Gaming",
+          "Mobile Gaming",
+          "Game Development",
+          "Esports",
+          "Retro Gaming",
+          "VR Gaming"
+        ]
+      },
+      {
+        "name": "Lifestyle",
+        "topics": [
+          "Fitness",
+          "Cooking",
+          "Travel",
+          "Fashion",
+          "Photography",
+          "Personal Finance",
+          "Mindfulness"
+        ]
+      },
+      {
+        "name": "Entertainment",
+        "topics": [
+          "Movies",
+          "TV Shows",
+          "Music",
+          "Books",
+          "Podcasts",
+          "Anime",
+          "Comics"
+        ]
+      },
+      {
+        "name": "Sports",
+        "topics": [
+          "Soccer",
+          "Basketball",
+          "Baseball",
+          "Running",
+          "Cycling",
+          "Climbing",
+          "Martial Arts"
+        ]
+      },
+      {
+        "name": "Education",
+        "topics": [
+          "Learning Languages",
+          "STEM Education",
+          "Online Courses",
+          "Study Tips",
+          "College Admissions",
+          "Homeschooling",
+          "Educational Technology"
+        ]
+      },
+      {
+        "name": "Health & Wellness",
+        "topics": [
+          "Nutrition",
+          "Mental Health",
+          "Fitness",
+          "Yoga",
+          "Self-Improvement",
+          "Sleep",
+          "Alternative Medicine"
+        ]
+      },
+      {
+        "name": "Business",
+        "topics": [
+          "Entrepreneurship",
+          "Marketing",
+          "Investing",
+          "E-commerce",
+          "Real Estate",
+          "Freelancing",
+          "Leadership"
+        ]
+      },
+      {
+        "name": "Art & Design",
+        "topics": [
+          "Painting",
+          "Graphic Design",
+          "Digital Art",
+          "Photography",
+          "Architecture",
+          "Illustration",
+          "Fashion Design"
+        ]
+      }
+    ]
+  }
+  

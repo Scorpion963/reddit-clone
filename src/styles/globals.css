@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.light {
+    --background: 255, 255, 255;       
+    --secondary: 241, 245, 249;      
+    --text: 14, 17, 19;              
+    --border: 200, 200, 200;         
+    --input: 241, 245, 249;  
+    --card: 255, 255, 255; 
+    --primary:  255, 69, 0;     
+}
+
+.dark {
+    --background: 14, 17, 19;
+    --secondary: 42, 50, 54;
+    --text: 255, 255, 255;
+    --border: 255, 255, 255;
+    --input: 42, 50, 54;
+    --card: 24, 28, 31;
+    --primary: 255, 69, 0;
+}
